@@ -17,3 +17,7 @@ Latest News
 - Our work "MoE-RBench: Building more reliable Language Model with Mixture of Experts" has been accepted by ICML 2024(May. 2024)
 - Internship at Shanghai Artificial Intelligence Laboratory (Oct. 2023)
 - Recommended to Shanghai Jiao Tong University to study for PhD (Sep. 2023)
+
+Publications
+======
+- MoE-RBench: Towards Building Reliable Language Models with Sparse Mixture-of-Experts. **Guanjie Chen**, Xinyu Zhao, Tianlong Chen, Yu Cheng. (ICML 24)

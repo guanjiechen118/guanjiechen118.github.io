@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently undertaking a PhD in Artificial Intelligence at Shanghai Jiao Tong University, under the supervision of [Yu Cheng](https://ych133.github.io/). Prior to this, I completed a Bachelor of Science in Computer Science at Nanjing University between 2020 and 2024, with rank 17/237. From 2022-2023, I served as an intern in Professor [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm)’s research group at Nanjing University.
+I am currently undertaking a PhD in Artificial Intelligence at Shanghai Jiao Tong University, under the supervision of Professor [Yu Cheng](https://ych133.github.io/). Prior to this, I completed a Bachelor of Science in Computer Science at Nanjing University between 2020 and 2024, with rank 17/237. From 2022-2023, I served as an intern in Professor [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm)’s research group at Nanjing University.
 
 
 Latest News

@@ -7,17 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently undertaking a PhD in Artificial Intelligence at Shanghai Jiao Tong University, under the supervision of Professor [Yu Cheng](https://ych133.github.io/). Prior to this, I completed a Bachelor of Science in Computer Science at Nanjing University between 2020 and 2024, with rank 17/237. From 2022-2023, I served as an intern in Professor [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm)’s research group at Nanjing University.
+I am currently undertaking a PhD in Artificial Intelligence at Shanghai Jiao Tong University, under the supervision of Professor [Yu Cheng](https://ych133.github.io/). Prior to this, I completed a Bachelor of Science in Computer Science at Nanjing University between 2020 and 2024. From 2022-2023, I served as an intern in Professor [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm)’s research group at Nanjing University.
 
 
 Latest News
 ======
-- I have been invited to participate in the 41st International Conference on Machine Learning (ICML) in Vienna, Austria (July. 2024).
-- Graduating from Nanjing University with B.S. degree (June. 2024)
-- Our work "MoE-RBench: Building more reliable Language Model with Mixture of Experts" has been accepted by ICML 2024(May. 2024)
-- Internship at Shanghai Artificial Intelligence Laboratory (Oct. 2023)
-- Recommended to Shanghai Jiao Tong University to study for PhD (Sep. 2023)
+- 2024-Jul-21: I have been invited to participate in the 41st International Conference on Machine Learning (ICML) in Vienna, Austria.
+- 2024-Jun-21: Graduating from Nanjing University with B.S. degree.
+- 2024-May-02: Our work "MoE-RBench: Building more reliable Language Model with Mixture of Experts" has been accepted by ICML2024.
+- 2023-Oct-24: Internship at Shanghai Artificial Intelligence Laboratory.
+- 2023-Sep-28: Recommended to Shanghai Jiao Tong University to study for PhD.
 
 Publications
 ======
-- MoE-RBench: Towards Building Reliable Language Models with Sparse Mixture-of-Experts. **Guanjie Chen**, Xinyu Zhao, Tianlong Chen, Yu Cheng. (ICML 24)
+- [MoE-RBench: Towards Building Reliable Language Models with Sparse Mixture-of-Experts](https://arxiv.org/abs/2406.11353v1). **Guanjie Chen**, Xinyu Zhao, Tianlong Chen, Yu Cheng. (ICML 24)
+
+Service
+======
+- 2023-Spring: Served as a teaching assistant for C language programming in Nanjing University.
+- 2023-Spring: Served as a teaching assistant for Data Science in Nanjing University.
+- 2022-Autumn: Served as a teaching assistant for C language programming in Nanjing University.

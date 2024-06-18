@@ -3,9 +3,9 @@ title: "MoE-RBench: Towards Building Reliable Language Models with Sparse Mixtur
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Authors: **Guanjie Chen**\*, Xinyu Zhao\*, Tianlong Chen, Yu Cheng'
-date: 2024-05-01
-venue: 'International Conference of Machine Learning (ICML)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+date: 2024-05-02
+venue: 'International Conference of Machine Learning 2024 (ICML2024)'
+paperurl: 'https://arxiv.org/abs/2406.11353v1'
 citation: 'Not published yet'
 ---
 

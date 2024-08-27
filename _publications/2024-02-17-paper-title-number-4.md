@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Authors: **Guanjie Chen**\*, Xinyu Zhao\*, Tianlong Chen, Yu Cheng'
 date: 2024-05-02
-venue: 'International Conference of Machine Learning 2024 (ICML2024)'
+venue: 'International Conference of Machine Learning'
 paperurl: 'https://arxiv.org/abs/2406.11353v1'
 ---
 

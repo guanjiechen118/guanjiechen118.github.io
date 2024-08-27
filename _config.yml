@@ -21,10 +21,10 @@ repository               : "guanjiechen118/guanjiechen118.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cgj.jpg"
+  avatar           : "cgj2.jpg"
   name             : "Guanjie Chen"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in NLP at Shanghai Jiao Tong University. B.S. in CS at Nanjing University"
+  bio              : "PhD at Shanghai Jiao Tong University."
   location         : "Shanghai"
   employer         : "SJTU & NJU & Shanghai ailab"
   uri              : # URL

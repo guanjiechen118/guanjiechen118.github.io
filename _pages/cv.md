@@ -21,7 +21,6 @@ Education
 Internship
 ======
 * Fall 2023 ~ Autumn 2024: Shanghai AI Lab
-  
 
 Publications
 ======

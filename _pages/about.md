@@ -11,6 +11,7 @@ I am currently undertaking a PhD in Artificial Intelligence at Shanghai Jiao Ton
 
 Latest News
 ======
+- 2024-Nov-25: My latest work "Accelerating Vision Diffusion Transformers with Skip Branches" has been released. [arxiv](https://arxiv.org/abs/2411.17616), [github](https://github.com/OpenSparseLLMs/Skip-DiT)
 - 2024-Jul-21: I have been invited to participate in the 41st International Conference on Machine Learning (ICML) in Vienna, Austria.
 - 2024-Jun-21: Graduated from Nanjing University with B.S. degree.
 - 2024-May-02: Our work "MoE-RBench: Building more reliable Language Model with Mixture of Experts" has been accepted by ICML2024.
@@ -19,4 +20,5 @@ Latest News
 
 Publications
 ======
+- [Accelerating Vision Diffusion Transformers with Skip Branches](https://arxiv.org/abs/2411.17616). **Guanjie Chen**, Xinyu Zhao, Yucheng Zhou, Tianlong Chen, Yu Cheng.
 - [MoE-RBench: Towards Building Reliable Language Models with Sparse Mixture-of-Experts](https://arxiv.org/abs/2406.11353v1). **Guanjie Chen**, Xinyu Zhao, Tianlong Chen, Yu Cheng. (ICML 24)

@@ -1,8 +1,10 @@
 ---
-title: "Accelerating Vision Diffusion Transformers with Skip Branches"
-excerpt: 'Authors: **Guanjie Chen**\*, Xinyu Zhao\*, Tianlong Chen, Yu Cheng'
-date: 2024-11-25
+title: "Skip-DiT: Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints"
+excerpt: '**Guanjie Chen**, Xinyu Zhao, Yucheng Zhou, Xiaoye Qu, Tianlong Chen, Yu Cheng'
+date: 2025-09-01
+venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: 'https://arxiv.org/abs/2411.17616'
+citation: 'Guanjie Chen, Xinyu Zhao, Yucheng Zhou, Xiaoye Qu, Tianlong Chen, and Yu Cheng. Skip-DiT: Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints. ICCV, 2025.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Skip-DiT introduces spectrally constrained long skip connections for more stable and efficient diffusion transformers, accelerating training by 4.4x and inference by up to 2x.

@@ -1,47 +1,47 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download CV (Chinese, PDF)](/files/Guanjie_Chen_CV_CN.pdf)
 
-About Me
+Research Interests
 ======
-I am currently undertaking a PhD at Shanghai Jiao Tong University, under the supervision of Professor [Yu Cheng](https://ych133.github.io/). Prior to this, I completed a Bachelor of Science in Computer Science at Nanjing University between 2020 and 2024.
+Embodied intelligence; World Action Models; efficient generative AI; diffusion model architectures; model distillation and reinforcement learning.
 
 Education
 ======
-* Ph.D at Shanghai Jiaotong University, 2024~
-* B.S. in Computer Science at Nanjing University, 2020~2024
+- **Shanghai Jiao Tong University**, Ph.D. in Artificial Intelligence, Sep. 2024 - Jun. 2029 (expected)<br>
+  School of Information and Electronic Engineering. Advisor: Professor [Yu Cheng](https://ych133.github.io/).
+- **Nanjing University**, B.S. in Computer Science and Technology, Sep. 2020 - Jun. 2024<br>
+  Department of Computer Science and Technology. Top 5% of the program.
 
-Internship
+Research Experience
 ======
-* Fall 2023 ~ Autumn 2024: Shanghai AI Lab
+- **Skywork, Remain Dynamic**, Research Intern, Jul. 2026 - Present<br>
+  World Action Models for embodied intelligence.
+- **The Chinese University of Hong Kong**, Research Assistant, Nov. 2025 - Feb. 2026<br>
+  Elastic routing, sparsity enhancement, expert-parallel load balancing, and parameter pruning for mixture-of-experts models.
+- **Tencent, Hunyuan**, Research Intern, Jun. 2025 - Nov. 2025<br>
+  Efficient image, video, and 3D generation through distillation, caching, and reinforcement learning; developed Flash-DMD.
+- **Shanghai AI Laboratory**, Research Intern, Oct. 2023 - Jun. 2025<br>
+  Efficient DiT architectures, autoregressive video representation compression, and reliable mixture-of-experts models; developed Skip-DiT, VRC, and MoE-RBench.
+- **Nanjing University, Reasoning and Learning Lab**, Research Intern, Jun. 2022 - Jun. 2023<br>
+  Semi-supervised and weakly supervised learning for medical image segmentation.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
-
-
-<!-- Talks
+Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+- ICML Top Reviewer
+- Global finalist, Citi Financial Innovation Application Competition
+- Outstanding Student, Nanjing University
+- National Encouragement Scholarship and People's Scholarship
